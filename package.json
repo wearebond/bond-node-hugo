@@ -1,0 +1,19 @@
+{
+  "name": "bond-node-hugo",
+  "version": "1.0.0",
+  "description": "Node wrapper for modified Hugo binaries",
+  "main": "index.js",
+  "bin": {
+    "node-hugo": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wearebond/bond-hugo.git"
+  },
+  "author": "Ilia Partuk <ilia@wearebond.com>",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "platform": "~1.3.5"
+  },
+  "dependencies": {}
+}
