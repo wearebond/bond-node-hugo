@@ -1,6 +1,6 @@
 {
   "name": "bond-node-hugo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node wrapper for modified Hugo binaries",
   "main": "index.js",
   "bin": {
