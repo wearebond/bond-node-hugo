@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:wearebond/bond-hugo.git"
+    "url": "git@github.com:wearebond/bond-node-hugo.git"
   },
   "author": "Ilia Partuk <ilia@wearebond.com>",
   "license": "Apache-2.0",
